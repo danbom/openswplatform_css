@@ -1,0 +1,8 @@
+body{
+    color:skyblue;
+    background-color: #808080;
+    font-size: 12px;
+    font-style: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mystyle{font-style: italic; color:burlywood}
