@@ -10,8 +10,7 @@ comment { padding-right : 15px; text-align: right; }
 #wrapper { 
     width: 1000px; 
     margin: 15px auto; 
-    text-align: left;
-    background-image : url('sky.jpeg') ;
+    text-align: left; ;
 }
 
 #main_header { 
